@@ -1,7 +1,4 @@
-### Here are the custom roms / GSI to flash on your android
-Thanks to @eyedream857
-
-Here's a collection of available GSIs, in order to keep it easy to choose what you want.
+### Here is the list of custom roms / GSI to flash on your android device.
 
 - *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).*
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/TrebleDroid/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
@@ -354,3 +351,4 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 </details>
 
+Thanks to @eyedream857 . Got this from him and then modified it according to needs.
