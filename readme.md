@@ -1,11 +1,6 @@
-### Here is the list of custom roms / GSI to flash on your android device.
+### Beginner-Friendly List of custom roms / GSI and Guide
 
-
-
-- *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).*
-- *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/TrebleDroid/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
-- *All images here **require a System-as-Root ("A/B") partition style**, unless otherwise specified through a column.*
-- *Dear end-users, GSI from google may not boot or work on your device.Try gsi from other mainatners.Thanks*
+- *Flashing guide and more details available at the end of page.*
 
 ## Official Android 16
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
@@ -344,4 +339,41 @@ But you should definitely use them if you need them.
 
 </details>
 
-Thanks to @eyedream857 . Got this from him and then modified it according to needs.
+## 🔰 Beginner's Guide to flashing GSIs
+
+### 1.GSI?
+A **Generic System Image (GSI)** is an unmodified Android system image built straight from the source code. Thanks to Project Treble, Android separates the core operating system from the hardware-specific vendor files. This means you can flash a single GSI onto hundreds of different phone models without needing a device-specific ROM.
+
+### 2. Prerequisites
+Before you attempt to flash anything, you must have the following ready:
+* **Unlocked Bootloader:** Search your specific phone model to learn how to unlock the bootloader on any search engine, youtube, xda forums. For most devices, it done through turning on oem unlock in dev options and then restart.
+* **Platform Tools:** Ensure you have ADB and Fastboot installed on your PC, or a configured terminal environment if you are flashing on-device.
+* **Treble Compatibility:** Download the **Treble Info** app from the Play Store or F-Droid. Check that your device supports Project Treble and note your architecture (e.g., ARM64) and partition style (A-only or A/B).
+* Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).
+
+### 3. Standard Flashing Guide (Fastboot)
+Every device has slight variations, but the general procedure via a computer is as follows:
+
+1. Enable USB debugging on in developer options, if developer options not showing up go to about phone, click build number 7 times, the show up and then proceed next.
+2. Connect your device to desktop device, allow connection inside android.
+3. Check device connection:
+    > `adb devices`
+4. Use this command after then:
+   > `adb reboot bootloader`
+5. It will get into fastboot mode, then if your first time flashing a gsi:
+   Disable Android Verified Boot (AVB) by flashing an empty `vbmeta` image (if required by your device):
+   > `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`
+6. After that: 
+   >  `fastboot reboot fastboot`
+7. It will get into fastbootd mode, now:
+8. Erase the current system partition:
+   > `fastboot erase system`
+10. Flash the extracted `.img` file of your chosen GSI:
+   > `fastboot flash system <name_of_gsi>.img`
+11. Wipe your user data to prevent bootloops from old system data:
+   > `fastboot -w`
+11. Reboot your device:
+   > `fastboot reboot`
+If you run into any problems, search on youtube, any search engine like brave,duckduckgo and search on XDA forum before creating a thread there.
+
+Thanks to @eyedream857 for No Doze-off. Got this from him and then modified it according to needs.
