@@ -6,8 +6,7 @@
 ## Official Android 16
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 June|RestlessOS|cawilliamson|15GB<img width="1080" height="2460" alt="Screenshot_20260621-161002" src="https://github.com/user-attachments/assets/f4986a47-99b2-4a06-92d3-cacd7a28b825" />
-|1.8GB|40%-50%|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
+|21 June|RestlessOS|cawilliamson|15GB|1.8GB|40%-50%|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
 |23 Nov|BreezeUI|Cotton Cloud Mods||||[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
 |04 Nov|MurasakiOS|AndroDumb||||[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
 |17 Jun|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
