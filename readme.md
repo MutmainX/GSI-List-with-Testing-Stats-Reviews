@@ -354,13 +354,3 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 </details>
 
-<details>
-<summary><i><b>List Maintainence Practices</b></i></summary>
-
-1. List should be sorted by update time.
-2. Outdated = not updated in 2 months.
-3. Outdated GSI's are transferred to legacy whether or not they are still being maintained is not taken into account.
-4. GSI's that are not Outdated should not be transferred to legacy whether or not they are still being maintained is not taken into account.
-5. If only a single GSI in a column has been Outdated, it shall remain in the column & Rule 3 would not apply here.
-6. Do not add any Telegram channels to the Wiki.
-</details>
