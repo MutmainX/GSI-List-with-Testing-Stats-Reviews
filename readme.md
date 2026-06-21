@@ -7,25 +7,13 @@
 - *All images here **require a System-as-Root ("A/B") partition style**, unless otherwise specified through a column.*
 - *Dear end-users, GSI from google may not boot or work on your device.Try gsi from other mainatners.Thanks*
 
-## Official Android 17
-
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Apr|Google GSI (QPR1 beta)|Google|[Download GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/gsi_gms_arm64-exp-CP31.260403.005.A1-15246833-3c422ec6.zip) / [Download NO GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/aosp_arm64-exp-CP31.260403.005.A1-15246833-96d79047.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Apr 2026|
-|26 Feb|Google GSI (Initial Beta)|Google|[Download GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/gsi_gms_arm64-exp-CP21.260206.011-14911669-32f205cf.zip) / [Download NO GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/aosp_arm64-exp-CP21.260206.011-14911669-04f2dce1.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Feb 2026|
-
-
 ## Official Android 16
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
 |12 June|RestlessOS|cawilliamson|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
-|14 Jan|QPR3 Google GSI (Beta)|Google|[Download GMS](https://dl.google.com/developers/android/baklava/images/gsi/gsi_gms_arm64-exp-CP11.251209.007.A1-14691868-7d7ce804.zip) / [Download NO GMS](https://dl.google.com/developers/android/baklava/images/gsi/aosp_arm64-exp-CP11.251209.007.A1-14691868-bc2d02c1.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jan 2026|
-|02 Dec|QPR2 Google GSI|Google|[Download GMS](https://dl.google.com/developers/android/baklava/images/gsi/gsi_gms_arm64-exp-BP4A.251205.006-14401865-f8760221.zip) / [Download NO GMS](https://dl.google.com/developers/android/baklava/images/gsi/aosp_arm64-exp-BP4A.251205.006-14401865-2171cf0e.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Dec 2025|
 |23 Nov|BreezeUI|Cotton Cloud Mods|[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
 |04 Nov|MurasakiOS|AndroDumb|[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
-|03 Sept|QPR1 Google GSI|Google|[Download GMS](https://dl.google.com/developers/android/baklava/images/gsi/gsi_gms_arm64-exp-BP3A.250905.014-13873947-346aad89.zip) / [Download NO GMS](https://dl.google.com/developers/android/baklava/images/gsi/aosp_arm64-exp-BP3A.250905.014-13873947-f9b599ff.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Sept 2025|
 |17 Jun|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
-|03 Jun|Google GSI (Initial)|Google|[Download GMS](https://dl.google.com/developers/android/baklava/images/gsi/gsi_gms_arm64-exp-BP2A.250605.031.A3-13578795-38e52cb0.zip) / [Download NO GMS](https://dl.google.com/developers/android/baklava/images/gsi/aosp_arm64-exp-BP2A.250605.031.A3-13578795-82277143.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jun 2025|
 
 ## Unofficial Android 16
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
@@ -49,8 +37,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |07 Dec|MurasakiOS (End of Life)|AndroDumb|[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
 |15 Apr|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Apr 2025|
-|14 Apr|QPR2 Google GSI|Google|[Download GMS](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-BP1A.250405.005.C1-13151952-48d6db2a.zip) / [Download NO GMS](https://dl.google.com/developers/android/vic/images/gsi/aosp_arm64-exp-BP1A.250405.005.C1-13151952-61d23231.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Apr 2025|
-|15 Oct|Initial release Google GSI|Google|[Download GMS](https://dl.google.com/developers/android/vic/images/gsi/gsi_gms_arm64-exp-AP3A.241005.015-12366759-0fdc93fe.zip) / [Download NO GMS](https://dl.google.com/developers/android/vic/images/gsi/aosp_arm64-exp-AP3A.241005.015-12366759-3c0ee79d.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Oct 2024|
 
 ## Unofficial Android 15
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
@@ -81,12 +67,10 @@
 |18 Aug|14|LineageOS TD-based|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-td/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Aug 2025|
 |06 Jun|13|LineageOS<br>TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Feb 2025|
 |06 Jun|12|LineageOS 19.1|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-19.1)|ARM64 - Binder|Jan 2025|
-|05 Aug|14|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android14-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Jun 2024|
-|20 Aug|13|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|May 2024|
-|09 Aug|12|AOSP|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|May 2024|
 
 
-## No longer updated: 
+## No longer updated:
+But you should definitely use them if you need them.
 
 ## Official Android 14		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
@@ -211,7 +195,6 @@
 ## Official Android 11
 |Last Updated|Image|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|2025|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Apr 2024|
 |Mar 2022|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|non-SaR - SaR|arm - arm64 - binder|
 |Dec 2021|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|non-SaR - SaR|arm - arm64 - binder|
 |Oct 2021|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |non-SaR - SaR|arm - arm64 - binder|
@@ -243,9 +226,7 @@
 ## Official Android 10
 |Last Updated |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Mar 2024|AOSP|Google|[Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|non-SaR - SaR|ARM64 - X86|
 |Nov 2023|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|non-SaR - SaR|ARM - ARM64 - Binder|
-|Mar 2023|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|non-SaR - SaR| ARM64 - X86|
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |non-SaR - SaR|arm - arm64 - binder|
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|non-SaR - SaR|arm - arm64 - binder|
 |Oct 2020|BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|non-SaR - SaR|arm - arm64 - binder|
