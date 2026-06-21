@@ -1,4 +1,4 @@
-### Beginner-Friendly List of custom roms / GSI and Guide
+### Beginner-Friendly List of custom roms / GSI and Guide with results by testing each gsi
 - *This gsi list also provides details like storage,ram usage and cpu usage by different GSIs to help users decide better.*
 - *Flashing guide and more details available at the end of page.*
 
