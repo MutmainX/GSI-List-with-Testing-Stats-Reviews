@@ -30,7 +30,7 @@
 ## Official Android 15
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|07 Dec|MurasakiOS(EOF)|AndroDumb||||[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
+|07 Dec|MurasakiOS(EOL)|AndroDumb||||[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
 |15 Apr|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Apr 2025|
 
 ## Unofficial Android 15
@@ -39,12 +39,12 @@
 |23 Dec|crDroidOS 11.12|anna-adnana||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/)|Closed|ARM64|Dec 2025|
 |15 Jan|eOS3.4|Colors|[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
 |05 Jan|LineageOS|MisterZtr||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Dec 2025|
-|17 Jul|VoltageOS (End of Life)|chrisaw||||[Download](https://github.com/cawilliamson/treble_voltage/releases/tag/4.5-20250717.114637)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Jun 2025|
-|06 Mar|GrapheneOS (End of Life)|Nullvalue||||[XDA](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181) / [Download](https://mega.nz/file/qWAXlQDZ#sqNQ0BGNfOTIiDbNVXyXt58y-L8BwSmPStPsBfGcg64)|[XDA-MEGA (In Parts)](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181/)|ARM64|Feb 2025|
+|17 Jul|VoltageOS (EOL)|chrisaw||||[Download](https://github.com/cawilliamson/treble_voltage/releases/tag/4.5-20250717.114637)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Jun 2025|
+|06 Mar|GrapheneOS (EOL)|Nullvalue||||[XDA](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181) / [Download](https://mega.nz/file/qWAXlQDZ#sqNQ0BGNfOTIiDbNVXyXt58y-L8BwSmPStPsBfGcg64)|[XDA-MEGA (In Parts)](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181/)|ARM64|Feb 2025|
 |22 Jun|LineageOS "Light"|AndyYan||||[XDA](https://xdaforums.com/t/gsi-15-lineageos-22-light-poc.4711135/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-22-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-22-light)|ARM64|Jun 2025|
 |17 May|PixelOS|mytja||||[Download](https://github.com/mytja/treble_pixelos/releases/tag/20250517)|[Github](https://github.com/mytja/treble_pixelos)|ARM64|May 2025|
 |13 May|AOSP|ponces||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|May 2025|
-|21 Apr|Evolution X (End of Life)|mytja||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250421) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250421)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Apr 2025|
+|21 Apr|Evolution X (EOL)|mytja||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250421) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250421)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Apr 2025|
 |21 Mar|Miku UI|yukineko2233||||[Download](https://github.com/yukineko2233/treble_build_miku/releases)|[GitHub](https://github.com/yukineko2233/treble_build_miku)|ARM64|Mar 2025|
 |17 Nov|KLC OS|Kanagawa Yamada||||[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
 
@@ -71,25 +71,25 @@ But you should definitely use them if you need them.
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |08 May 2024|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20240508)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
-|25 Sep|RisingOS (End of Life)|UniversalX||||[Telegram](https://t.me/universalgsi) /[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) |[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
-|09 Sep|EverestOS (End of Life)|kaii-lb||||[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[GitHub](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
+|25 Sep|RisingOS (EOL)|UniversalX||||[Telegram](https://t.me/universalgsi) /[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) |[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
+|09 Sep|EverestOS (EOL)|kaii-lb||||[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[GitHub](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
 |15 Apr|Project Elixir|UniversalX||||[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/device/gsi) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Apr 2024|
 
 ## Unofficial Android 14	
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |24 Nov|LineageOS "Light" (Discontinued)|AndyYan||||[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-light/)|[Github](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-light/)|ARM64|Nov 2025|
-|22 Apr 2025|Evolution X (End of Life)|mytja||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250422) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250422)|ARM64|Apr 2025|
-|15 Mar 2025|SuperiorOS (End Of Life)|ChonDoit||||[Telegram](https://t.me/elranchodecornelio/271) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Dec 2024|
+|22 Apr 2025|Evolution X (EOL)|mytja||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250422) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250422)|ARM64|Apr 2025|
+|15 Mar 2025|SuperiorOS (EOL)|ChonDoit||||[Telegram](https://t.me/elranchodecornelio/271) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Dec 2024|
 |08 Mar 2025|crDroid|Nazim||||[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Feb 2025|
 |11 Jan 2025|Project Matrixx|ChonDoit||||[Telegram](https://t.me/elranchodecornelio/279) / [Download](https://github.com/ChonDoit/treble_matrixx_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_matrixx_patches)|ARM64|Dec 2024|
 |21 May|Evolution XYZ|ngankbka||||[Download](https://github.com/ngankbka/treble_evolution/releases/)|[GitHub](https://github.com/ngankbka/treble_evolution)|ARM64|May 2024|
 |07 Feb|Evolution X|Ahnet||||[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/ahnet-69/treble_evo/releases)|[GitHub](https://github.com/ahnet-69/treble_evo)|ARM64|Feb 2024|
-|15 Sep|VoltageOS (End of Life) |chrisaw||||[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Sep 2024|
+|15 Sep|VoltageOS (EOL) |chrisaw||||[Telegram](https://t.me/ahnetgsi) / [Download](https://github.com/cawilliamson/treble_voltage/releases/)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Sep 2024|
 |24 Aug|PixelOS (Archived)|MisterZtr||||[Download](https://github.com/MisterZtr/PixelOS_gsi/releases)|[GitHub](https://github.com/MisterZtr/PixelOS_gsi)|ARM64|Aug 2024|
-|18 Aug|ImbrogliOS (End of Life) |imbroglius||||[XDA](https://xdaforums.com/t/gsi-14-imbroglios-v2024-08-09-aosp-android-14-0-0_r61-pure-full-edition.4681055//) / [Download](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.08.18//)|[Github](https://github.com/imbroglius/imbroglios_gsi)|ARM64|Aug 2024|
-|16 Aug|AOSP (End of Life)|ponces||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Aug 2024|
-|10 Aug|Miku UI (End of Life)|xiaoleGun||||[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2024|
+|18 Aug|ImbrogliOS (EOL) |imbroglius||||[XDA](https://xdaforums.com/t/gsi-14-imbroglios-v2024-08-09-aosp-android-14-0-0_r61-pure-full-edition.4681055//) / [Download](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.08.18//)|[Github](https://github.com/imbroglius/imbroglios_gsi)|ARM64|Aug 2024|
+|16 Aug|AOSP (EOL)|ponces||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Aug 2024|
+|10 Aug|Miku UI (EOL)|xiaoleGun||||[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Aug 2024|
 |18 Jul|Project Sakura (Archived)|ChonDoit||||[Telegram](https://t.me/elranchodecornelio/252) / [Download](https://github.com/ChonDoit/treble_sakura_patches/releases)|[Github](https://github.com/ChonDoit/treble_sakura_patches)|ARM64|Jul 2024|
 |12 Mar|CherishOS (Archived)|YukiMetaa||||[Download](https://github.com/YukiMetaa/treble_cherish/releases/)|[GitHub](https://github.com/YukiMetaa/treble_cherish)|ARM64|Feb 2024|
 |17 Mar|ApolloOS (Archived)|YukiMetaa||||[Download](https://github.com/YukiMetaa/treble_apollo/releases/)|[GitHub](https://github.com/YukiMetaa/treble_apollo)|ARM64|Feb 2024|
