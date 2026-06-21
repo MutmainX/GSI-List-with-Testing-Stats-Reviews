@@ -5,8 +5,10 @@
 - *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).*
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/TrebleDroid/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here **require a System-as-Root ("A/B") partition style**, unless otherwise specified through a column.*
+- *GSI from google may not be boot or work on your device.*
 
 ## Official Android 17
+
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |22 Apr|Google GSI (QPR1 beta)|Google|[Download GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/gsi_gms_arm64-exp-CP31.260403.005.A1-15246833-3c422ec6.zip) / [Download NO GMS](https://dl.google.com/developers/android/cinnamonbun/images/gsi/aosp_arm64-exp-CP31.260403.005.A1-15246833-96d79047.zip) / [Build](https://source.android.com/docs/setup/start/initializing)|[Google](https://android.googlesource.com/platform/manifest)|ARM64 - X86|Apr 2026|
