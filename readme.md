@@ -5,7 +5,7 @@
 - *Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device. Or expert term, Only use GSI images with an Android API level that's higher or equal to the version of VNDK that came with your device (also apply for updated VNDK on certain devices).*
 - *If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/TrebleDroid/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.*
 - *All images here **require a System-as-Root ("A/B") partition style**, unless otherwise specified through a column.*
-- *GSI from google may not be boot or work on your device.*
+- *Dear end-users, GSI from google may not boot or work on your device.Try gsi from other mainatners.Thanks*
 
 ## Official Android 17
 
