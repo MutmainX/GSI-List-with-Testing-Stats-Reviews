@@ -1,11 +1,11 @@
 ### Beginner-Friendly List of custom roms / GSI and Guide with results by testing each gsi
-- *This gsi list also provides details like storage,ram usage and cpu usage by different GSIs to help users decide better.*
+- *This gsi list also provides details like storage,ram and cpu usage of system by different GSIs to help users decide better according to their needs.*
 - *Flashing guide and more details available at the end of page.*
 
 ## Official Android 16
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 June|RestlessOS|cawilliamson||||[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
+|21 June|RestlessOS|cawilliamson|15GB|1.8GB|40%-50%|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
 |23 Nov|BreezeUI|Cotton Cloud Mods||||[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
 |04 Nov|MurasakiOS|AndroDumb||||[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
 |17 Jun|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
