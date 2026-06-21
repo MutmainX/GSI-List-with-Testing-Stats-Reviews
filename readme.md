@@ -376,4 +376,4 @@ Every device has slight variations, but the general procedure via a computer is 
    > `fastboot reboot`
 If you run into any problems, search on youtube, any search engine like brave,duckduckgo and search on XDA forum before creating a thread there.
 
-Thanks to @eyedream857 for No Doze-off. Got this from him and then modified it according to needs.
+Thanks to @eyedream857 for No Doze-off. 
