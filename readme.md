@@ -37,7 +37,7 @@
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |23 Dec|crDroidOS 11.12|anna-adnana||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/)|Closed|ARM64|Dec 2025|
-|15 Jan|eOS3.4|Colors|[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
+|15 Jan|eOS3.4|Colors||||[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
 |05 Jan|LineageOS|MisterZtr||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Dec 2025|
 |17 Jul|VoltageOS (EOL)|chrisaw||||[Download](https://github.com/cawilliamson/treble_voltage/releases/tag/4.5-20250717.114637)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Jun 2025|
 |06 Mar|GrapheneOS (EOL)|Nullvalue||||[XDA](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181) / [Download](https://mega.nz/file/qWAXlQDZ#sqNQ0BGNfOTIiDbNVXyXt58y-L8BwSmPStPsBfGcg64)|[XDA-MEGA (In Parts)](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181/)|ARM64|Feb 2025|
