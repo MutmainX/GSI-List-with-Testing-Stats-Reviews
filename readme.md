@@ -3,7 +3,7 @@
 - *Flashing guide and more details available at the end of page.*
 
 ## Official Android 16
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|
+|Updated|GSI|Dev|Storage(System)|RAM|CPU|Links|Sources|Architecture|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |12 June|RestlessOS|cawilliamson|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
 |23 Nov|BreezeUI|Cotton Cloud Mods|[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
