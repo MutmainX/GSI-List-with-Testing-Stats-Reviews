@@ -1,18 +1,18 @@
 ### Beginner-Friendly List of custom roms / GSI and Guide
-
+- *This gsi list also provides details like storage,ram usage and cpu usage by different GSIs to help users decide better.*
 - *Flashing guide and more details available at the end of page.*
 
 ## Official Android 16
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |12 June|RestlessOS|cawilliamson|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
 |23 Nov|BreezeUI|Cotton Cloud Mods|[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
 |04 Nov|MurasakiOS|AndroDumb|[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
 |17 Jun|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
 
 ## Unofficial Android 16
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |10 Jan|Lineage23-MicroG|Colors|[Download](https://sourceforge.net/projects/lineageos-4-microg/files/GSI/16/)|Closed|ARM64|Jan 2026|
 |10 Jan|eOS|Colors|[Download](https://sourceforge.net/projects/e-os/files/GSI/16/)|Closed|ARM64|Jan 2026|
 |09 Jan|LineageOS 23|MisterZtr|[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.09-lineage23.0)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Jan 2026|
@@ -28,14 +28,14 @@
 |26 Jun|AOSP|ponces|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases/tag/v2025.06.25)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Jun 2025|
 
 ## Official Android 15
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |07 Dec|MurasakiOS (End of Life)|AndroDumb|[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
 |15 Apr|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Apr 2025|
 
 ## Unofficial Android 15
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |23 Dec|crDroidOS 11.12|anna-adnana|[Download](https://sourceforge.net/projects/crdroidos/files/GSI/)|Closed|ARM64|Dec 2025|
 |15 Jan|eOS3.4|Colors|[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
 |05 Jan|LineageOS|MisterZtr|[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Dec 2025|
@@ -49,8 +49,8 @@
 |17 Nov|KLC OS|Kanagawa Yamada|[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
 
 ## Latest Android 12, 13, 14 GSIs
-|Updated|Version|Image|Maintainer|Links|Sources|Architecture|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Version|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Jan|13/14|eOS3.4|Colors|[Download](https://sourceforge.net/projects/e-os/files/GSI/)|Closed|ARM64|Jan 2026|
 |04 Jan|14|PhantomAOSP |imphantomxd| [Download](https://github.com/imphantomxd/PhantomAOSP/releases/tag/v2026.01.04)|Closed|ARM64|?|
 |28 Dec|13|Pixel Experience Plus|ChonDoit|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_peplus_patches/releases/latest)|[GitHub](https://github.com/ChonDoit/treble_peplus_patches)|ARM64|Dec 2025|
@@ -68,16 +68,16 @@
 But you should definitely use them if you need them.
 
 ## Official Android 14		
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |08 May 2024|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20240508)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Mar 2024|
 |25 Sep|RisingOS (End of Life)|UniversalX|[Telegram](https://t.me/universalgsi) /[Download](https://sourceforge.net/projects/risingos-official/files/5.x/) |[GitHub](https://github.com/RisingOSS-devices/android_device_phh_treble)|ARM64|Sep 2024|
 |09 Sep|EverestOS (End of Life)|kaii-lb|[Telegram](https://t.me/kaiis_stuff/) / [Download](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3)|[GitHub](https://github.com/kaii-lb/treble_everest)|ARM64|Sep 2024|
 |15 Apr|Project Elixir|UniversalX|[XDA](https://xdaforums.com/t/gsi-14-0-gsi-project-elixir-official-stable-aosp.4650522/) / [Download](https://projectelixiros.com/device/gsi) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phh_treble/)|ARM64|Apr 2024|
 
 ## Unofficial Android 14	
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |24 Nov|LineageOS "Light" (Discontinued)|AndyYan|[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-light.4653433/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-light/)|[Github](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-light/)|ARM64|Nov 2025|
 |22 Apr 2025|Evolution X (End of Life)|mytja|[Download](https://github.com/mytja/treble_evo/releases/tag/20250422) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases)|[GitHub](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250422)|ARM64|Apr 2025|
 |15 Mar 2025|SuperiorOS (End Of Life)|ChonDoit|[Telegram](https://t.me/elranchodecornelio/271) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A14)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Dec 2024|
@@ -101,16 +101,16 @@ But you should definitely use them if you need them.
 |Oct 2023|Evolution X (Archived)|boydaihungst|[Download](https://github.com/boydaihungst/treble_build_evo/releases)| [GitHub](https://github.com/boydaihungst/treble_build_evo/)|ARM64|Oct 2023|
 
 ## Official Android 13		
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |13 Jan|LeOS 20 (Out of Maintenance) |Harvey186|[DL1](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [DL2](https://leos-cloud.de/s/JFrFgLgSSTEMtmL) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|Jan 2024|
 |Nov 2023|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Oct 2023|
 |Sep 2023|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Aug 2023|
 |Jul 2023|LeafOS BETA|Linux4|[DL](https://dl.leafos.org/beta/leaf_gsi_arm64/) / [Telegram](https://t.me/leafos)|[GitHub](https://github.com/LeafOS-Project/)|ARM64|July 2023|
 
 ## Unofficial Android 13		
-|Updated|Image|Maintainer|Links|Sources|Architecture|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|Storage(System)|System RAM consumption|System CPU comsumption|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |20 Aug|SuperiorOS|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases/tag/A13)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|A/B|Aug 2024|
 |21 Jul|DerpFest|MarisaDAZA|[Download](https://github.com/MarisaDAZA/treble_DerpFest_GSI/releases)|[GitHub](https://github.com/MarisaDAZA/treble_DerpFest_GSI)|ARM64|A/B|Jul 2024|
 |01 Jul|crDroid|ChonDoit|[Telegram](https://t.me/elranchodecornelio/250) / [Download](https://github.com/ChonDoit/treble_crdroid_patches/releases/tag/A13-Signed)|[GitHub](https://github.com/ChonDoit/treble_crdroid_patches)|ARM64|A/B|May 2024|
