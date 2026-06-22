@@ -1,7 +1,7 @@
 ### Beginner-Friendly List of custom roms / GSI and Guide with results by testing each gsi
 - *This gsi list also provides details like storage,ram and cpu usage of system by actual flashing of different GSIs to help users decide better according to their needs.*
 - *Flashing guide and more details available at the end of page.*
-- Join my Telegram support group : [Join](https://t.me/gsi_support_mutmainx)
+- Note: this list will be gradually updated for tests.
 
 ## Official Android 16
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
