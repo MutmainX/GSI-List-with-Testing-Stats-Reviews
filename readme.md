@@ -4,51 +4,51 @@
 - Note: this list will be gradually updated for tests.
 
 ## Official Android 16
-|Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|21 June|RestlessOS|cawilliamson|15GB<img width="1012" height="619" alt="restless_storage1" src="https://github.com/user-attachments/assets/cdee2624-5250-44ff-b8ee-bf2337ffd403" />|1.8GB<img width="1080" height="785" alt="image" src="https://github.com/user-attachments/assets/f39333b9-5504-4874-a3e3-1fac2bb16ead" />|40%-50%<img width="1080" height="745" alt="image" src="https://github.com/user-attachments/assets/aae863e1-d5d1-4421-a4c3-90a15eb11864" />|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos) / [Test results](https://github.com/MutmainX/GSI-List-with-Testing-Stats-Reviews/blob/main/test_results_Restless_gsi)|ARM64|June 2026|
-|07 Mar|Miku UI	A2/B3/B4|Miku UI Team|||[Download](https://sourceforge.net/projects/divarelease/files/)|Closed|ARM64|Feb 2026|
-|23 Nov|BreezeUI|Cotton Cloud Mods||||[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
-|04 Nov|MurasakiOS|AndroDumb||||[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
-|17 Jun|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
+|Updated|GSI|Dev|Reviews/Issues|Storage|RAM|CPU|Links|Sources|Architect|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|21 June|RestlessOS|cawilliamson|[detailed_test](https://github.com/MutmainX/GSI-List-with-Testing-Stats-Reviews/blob/main/test_results_Restless_gsi)|15GB<img width="1012" height="619" alt="restless_storage1" src="https://github.com/user-attachments/assets/cdee2624-5250-44ff-b8ee-bf2337ffd403" />|1.8GB<img width="1080" height="785" alt="image" src="https://github.com/user-attachments/assets/f39333b9-5504-4874-a3e3-1fac2bb16ead" />|40%-50%<img width="1080" height="745" alt="image" src="https://github.com/user-attachments/assets/aae863e1-d5d1-4421-a4c3-90a15eb11864" />|[Download](https://github.com/cawilliamson/treble_grapheneos/releases/latest)|[Github](https://github.com/cawilliamson/treble_grapheneos)|ARM64|June 2026|
+|07 Mar|Miku UI	A2/B3/B4|Miku UI Team||||[Download](https://sourceforge.net/projects/divarelease/files/)|Closed|ARM64|Feb 2026|
+|23 Nov|BreezeUI|Cotton Cloud Mods|||||[Telegram](https://t.me/CottonCloudMods) / [Download](https://t.me/CottonCloudFiles/355/1919)|Closed|ARM64|? 2025|
+|04 Nov|MurasakiOS|AndroDumb|||||[Telegram](https://t.me/androdumbstuff) / [Download](https://t.me/GSILabFiles/36)|Closed|ARM64|Oct 2025|
+|17 Jun|AOSP|TrebleDroid Builders|||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250617)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jun 2025|
 
 ## Unofficial Android 16
-|Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|24 May|LineageOS 23.2|MisterZtr||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.05.24-lineage23.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|May 2026|
-|10 Jan|Lineage23-MicroG|Colors||||[Download](https://sourceforge.net/projects/lineageos-4-microg/files/GSI/16/)|Closed|ARM64|Jan 2026|
-|10 Jan|eOS|Colors||||[Download](https://sourceforge.net/projects/e-os/files/GSI/16/)|Closed|ARM64|Jan 2026|
-|21 Dec|LineageOS 23|anna-adnana||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/16/)|Closed|ARM64|Dec 2025|
-|21 Dec|eOS 3.3|anna-adnana||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/16/)|Closed|ARM64|Dec 2025|
-|19 Dec|VoltageOS|itisFarzin||||[Telegram](https://t.me/itisFarzinBuilds) / [Download](https://github.com/itisFarzin/VoltageOS_GSI/releases/tag/voltageos-5.3-20251219)|[GitHub](https://github.com/itisFarzin/VoltageOS_GSI)|ARM64|Nov 2025|
-|08 Dec|Clover|ChonDoit||||[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_clover_patches/releases/tag/v20251207)|[GitHub](https://github.com/ChonDoit/treble_clover_patches)|ARM64|Dec 2025|
-|23 Nov|SunDroid|Dtyaa||||[Download](https://drive.google.com/file/d/1TyDXFXWlwP2zCDGKglQK8zWYy75YugSy/view?usp=sharing)|Closed|ARM64 (EROFS Only)|? 2025|
-|10 Nov|Evolution X|*Anonymous*||||[Download](https://t.me/GSILabFiles/57)|Closed|ARM64|? 2025|
-|27 Oct|LineageOS|MisterZtr||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2025.10.27-lineage23.0)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Oct 2025|
-|06 Sept|LeanOS|chrisaw||||[Download](https://github.com/LeOS-LeanOS/treble_leanos/releases/tag/16.0.0_r2-202509052330) / [Mirror](https://build.chrisaw.io/)|[GitHub](https://github.com/LeOS-LeanOS/treble_leanos)|ARM64 - Binder|Jun 2025|
-|06 Aug|PixelOS|mytja||||[Download](https://github.com/mytja/treble_pixelos/releases/tag/20250806)|[Github](https://github.com/mytja/treble_pixelos)|ARM64|Aug 2025|
-|26 Jun|AOSP|ponces||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases/tag/v2025.06.25)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Jun 2025|
+|Updated|GSI|Dev|Reviews/Issues|Storage|RAM|CPU|Links|Sources|Architect|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|24 May|LineageOS 23.2|MisterZtr|||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.05.24-lineage23.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|May 2026|
+|10 Jan|Lineage23-MicroG|Colors|||||[Download](https://sourceforge.net/projects/lineageos-4-microg/files/GSI/16/)|Closed|ARM64|Jan 2026|
+|10 Jan|eOS|Colors|||||[Download](https://sourceforge.net/projects/e-os/files/GSI/16/)|Closed|ARM64|Jan 2026|
+|21 Dec|LineageOS 23|anna-adnana|||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/16/)|Closed|ARM64|Dec 2025|
+|21 Dec|eOS 3.3|anna-adnana|||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/16/)|Closed|ARM64|Dec 2025|
+|19 Dec|VoltageOS|itisFarzin|||||[Telegram](https://t.me/itisFarzinBuilds) / [Download](https://github.com/itisFarzin/VoltageOS_GSI/releases/tag/voltageos-5.3-20251219)|[GitHub](https://github.com/itisFarzin/VoltageOS_GSI)|ARM64|Nov 2025|
+|08 Dec|Clover|ChonDoit|||||[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_clover_patches/releases/tag/v20251207)|[GitHub](https://github.com/ChonDoit/treble_clover_patches)|ARM64|Dec 2025|
+|23 Nov|SunDroid|Dtyaa|||||[Download](https://drive.google.com/file/d/1TyDXFXWlwP2zCDGKglQK8zWYy75YugSy/view?usp=sharing)|Closed|ARM64 (EROFS Only)|? 2025|
+|10 Nov|Evolution X|*Anonymous*|||||[Download](https://t.me/GSILabFiles/57)|Closed|ARM64|? 2025|
+|27 Oct|LineageOS|MisterZtr|||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2025.10.27-lineage23.0)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Oct 2025|
+|06 Sept|LeanOS|chrisaw|||||[Download](https://github.com/LeOS-LeanOS/treble_leanos/releases/tag/16.0.0_r2-202509052330) / [Mirror](https://build.chrisaw.io/)|[GitHub](https://github.com/LeOS-LeanOS/treble_leanos)|ARM64 - Binder|Jun 2025|
+|06 Aug|PixelOS|mytja|||||[Download](https://github.com/mytja/treble_pixelos/releases/tag/20250806)|[Github](https://github.com/mytja/treble_pixelos)|ARM64|Aug 2025|
+|26 Jun|AOSP|ponces|||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases/tag/v2025.06.25)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|Jun 2025|
 
 ## Official Android 15
-|Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|07 Dec|MurasakiOS(EOL)|AndroDumb||||[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
-|15 Apr|AOSP|TrebleDroid Builders||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Apr 2025|
+|Updated|GSI|Dev|Reviews/Issues|Storage|RAM|CPU|Links|Sources|Architect|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|07 Dec|MurasakiOS(EOL)|AndroDumb|||||[Telegram](https://t.me/bendygsichat/1422)|Closed|ARM64|Jun 2025|
+|15 Apr|AOSP|TrebleDroid Builders|||||[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Apr 2025|
 
 ## Unofficial Android 15
-|Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|23 Dec|crDroidOS 11.12|anna-adnana||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/)|Closed|ARM64|Dec 2025|
-|15 Jan|eOS3.4|Colors||||[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
-|05 Jan|LineageOS|MisterZtr||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Dec 2025|
-|17 Jul|VoltageOS (EOL)|chrisaw||||[Download](https://github.com/cawilliamson/treble_voltage/releases/tag/4.5-20250717.114637)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Jun 2025|
-|06 Mar|GrapheneOS (EOL)|Nullvalue||||[XDA](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181) / [Download](https://mega.nz/file/qWAXlQDZ#sqNQ0BGNfOTIiDbNVXyXt58y-L8BwSmPStPsBfGcg64)|[XDA-MEGA (In Parts)](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181/)|ARM64|Feb 2025|
-|22 Jun|LineageOS "Light"|AndyYan||||[XDA](https://xdaforums.com/t/gsi-15-lineageos-22-light-poc.4711135/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-22-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-22-light)|ARM64|Jun 2025|
-|17 May|PixelOS|mytja||||[Download](https://github.com/mytja/treble_pixelos/releases/tag/20250517)|[Github](https://github.com/mytja/treble_pixelos)|ARM64|May 2025|
-|13 May|AOSP|ponces||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|May 2025|
-|21 Apr|Evolution X (EOL)|mytja||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250421) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250421)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Apr 2025|
-|21 Mar|Miku UI|yukineko2233||||[Download](https://github.com/yukineko2233/treble_build_miku/releases)|[GitHub](https://github.com/yukineko2233/treble_build_miku)|ARM64|Mar 2025|
-|17 Nov|KLC OS|Kanagawa Yamada||||[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
+|Updated|GSI|Dev|Reviews/Issues|Storage|RAM|CPU|Links|Sources|Architect|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|23 Dec|crDroidOS 11.12|anna-adnana|||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/)|Closed|ARM64|Dec 2025|
+|15 Jan|eOS3.4|Colors|||||[Download](https://sourceforge.net/projects/e-os/files/GSI/15/) / [e Forum](https://community.e.foundation/t/unofficial-gsi-android-15/71674)|Closed|ARM64|Jan 2026|
+|05 Jan|LineageOS|MisterZtr|||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|Dec 2025|
+|17 Jul|VoltageOS (EOL)|chrisaw|||||[Download](https://github.com/cawilliamson/treble_voltage/releases/tag/4.5-20250717.114637)|[GitHub](https://github.com/cawilliamson/treble_voltage)|ARM64 - Binder|Jun 2025|
+|06 Mar|GrapheneOS (EOL)|Nullvalue|||||[XDA](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181) / [Download](https://mega.nz/file/qWAXlQDZ#sqNQ0BGNfOTIiDbNVXyXt58y-L8BwSmPStPsBfGcg64)|[XDA-MEGA (In Parts)](https://xdaforums.com/t/gsi-android15-grapheneos-unofficial-prototype.4723181/)|ARM64|Feb 2025|
+|22 Jun|LineageOS "Light"|AndyYan|||||[XDA](https://xdaforums.com/t/gsi-15-lineageos-22-light-poc.4711135/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-22-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-22-light)|ARM64|Jun 2025|
+|17 May|PixelOS|mytja|||||[Download](https://github.com/mytja/treble_pixelos/releases/tag/20250517)|[Github](https://github.com/mytja/treble_pixelos)|ARM64|May 2025|
+|13 May|AOSP|ponces|||||[Telegram](https://t.me/phhtreble) / [Download](https://github.com/ponces/treble_aosp/releases)|[GitHub](https://github.com/ponces/treble_aosp)|ARM64|May 2025|
+|21 Apr|Evolution X (EOL)|mytja|||||[Download](https://github.com/mytja/treble_evo/releases/tag/20250421) / [Mirror 1](https://git.severkar.eu/mytja/treble_evo/releases/tag/20250421)|[GitHub](https://github.com/mytja/treble_evo)|ARM64|Apr 2025|
+|21 Mar|Miku UI|yukineko2233|||||[Download](https://github.com/yukineko2233/treble_build_miku/releases)|[GitHub](https://github.com/yukineko2233/treble_build_miku)|ARM64|Mar 2025|
+|17 Nov|KLC OS|Kanagawa Yamada|||||[Telegram](https://t.me/KanagawaLabCom) / [Download](https://github.com/LoggingNewMemory/KLC_OS/releases)|[GitHub](https://github.com/LoggingNewMemory/KLC_OS/)|ARM64|Nov 2024|
 
 ## Latest Android 12, 13, 14 GSIs
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
