@@ -397,5 +397,4 @@ Every device has slight variations, but the general procedure via a computer is 
 
 
 **Extra Note:**
-
 Thanks to @eyedream857 for No Doze-off list. There will be no GSIs from Doze-off and results for them because they are already bad and unstable. He ruins treble compatibility, dont address issues, blames your device. His focus is on quantity rather than quality.
