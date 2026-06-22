@@ -64,11 +64,12 @@
 |18 Aug|14|LineageOS TD-based|AndyYan||||[XDA](https://xdaforums.com/t/gsi-14-lineageos-21-trebledroid-based.4654132/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-pre-qpr2-td/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-21-td)|ARM64 - Binder|Aug 2025|
 |06 Jun|13|LineageOS<br>TD-based|AndyYan||||[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Feb 2025|
 |06 Jun|12|LineageOS 19.1|AndyYan||||[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-19.1)|ARM64 - Binder|Jan 2025|
-
-
-## No longer updated:
-But you should definitely use them if you need them.
-
+<!--## No longer updated:..>
+But you should definitely use them if you need them.-->
+<br>
+<details>
+<summary><i><b>Legacy GSIs , Others </b></i></summary>
+<br>
 ## Official Android 14		
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
