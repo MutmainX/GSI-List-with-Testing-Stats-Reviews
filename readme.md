@@ -385,15 +385,17 @@ Every device has slight variations, but the general procedure via a computer is 
 7. It will get into fastbootd mode, now:
 8. Erase the current system partition:
    > `fastboot erase system`
-10. Flash the extracted `.img` file of your chosen GSI:
+9. Flash the extracted `.img` file of your chosen GSI:
    > `fastboot flash system <name_of_gsi>.img`
-11. Wipe your user data to prevent bootloops from old system data:
+10. Wipe your user data to prevent bootloops from old system data:
    > `fastboot -w`
 11. Reboot your device:
    > `fastboot reboot`
-If you run into any problems, search on youtube, any search engine like brave,duckduckgo and search on XDA forum before creating a thread there.
+12. If you run into any problems, search on youtube, any search engine like brave,duckduckgo and search on XDA forum before creating a thread there.
+
 </details>
 
 
 **Extra Note:**
+
 Thanks to @eyedream857 for No Doze-off list. There will be no GSIs from Doze-off and results for them because they are already bad and unstable. He ruins treble compatibility, dont address issues, blames your device. His focus is on quantity rather than quality.
