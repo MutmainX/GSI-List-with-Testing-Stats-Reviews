@@ -395,4 +395,4 @@ If you run into any problems, search on youtube, any search engine like brave,du
 
 
 **Extra Note:**
-Thanks to @eyedream857 for No Doze-off. There will be no GSIs No Doze-off and results for them because they are already bad and not stable. He ruins treble compatibility, dont address issues, blames your device. His focus is on quantity rather than quality.
+Thanks to @eyedream857 for No Doze-off. There will be no GSIs Doze-off and results for them because they are already bad and not stable. He ruins treble compatibility, dont address issues, blames your device. His focus is on quantity rather than quality.
