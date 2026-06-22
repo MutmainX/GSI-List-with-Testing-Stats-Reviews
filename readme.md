@@ -70,6 +70,7 @@ But you should definitely use them if you need them.-->
 <details>
 <summary><i><b>Legacy GSIs , Others </b></i></summary>
 <br>
+
 ## Official Android 14		
 |Updated|GSI|Dev|Storage|RAM|CPU|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -342,8 +343,20 @@ But you should definitely use them if you need them.-->
 
 </details>
 
-## 🔰 Beginner's Guide to flashing GSIs
+<br>
+<details>
+<summary><i><b>List Contribution Practices</b></i></summary>
+<br>
 
+1-You are welcome to contribute to add results and occasionally update this repo
+2-Use the same format as mine, fill those columns, add new files for detailed results.
+
+</details>
+<!--## 🔰 Beginner's Guide to flashing GSIs -->
+<br>
+<details>
+<summary><i><b>Beginner's Guide to flashing GSIs</b></i></summary>
+<br>
 ### 1.GSI?
 A **Generic System Image (GSI)** is an unmodified Android system image built straight from the source code. Thanks to Project Treble, Android separates the core operating system from the hardware-specific vendor files. This means you can flash a single GSI onto hundreds of different phone models without needing a device-specific ROM.
 
@@ -378,5 +391,7 @@ Every device has slight variations, but the general procedure via a computer is 
 11. Reboot your device:
    > `fastboot reboot`
 If you run into any problems, search on youtube, any search engine like brave,duckduckgo and search on XDA forum before creating a thread there.
+</details>
 
-Thanks to @eyedream857 for No Doze-off. 
+**Extra Note:**
+Thanks to @eyedream857 for No Doze-off. There will be no GSIs No Doze-off and results for them because they are already bad and not stable. He ruins treble compatibility, dont address issues, blames your device. His focus is on quantity rather than quality.
