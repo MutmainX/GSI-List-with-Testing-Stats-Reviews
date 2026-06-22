@@ -357,6 +357,7 @@ But you should definitely use them if you need them.-->
 <details>
 <summary><i><b>Beginner's Guide to flashing GSIs</b></i></summary>
 <br>
+    
 ### 1.GSI?
 A **Generic System Image (GSI)** is an unmodified Android system image built straight from the source code. Thanks to Project Treble, Android separates the core operating system from the hardware-specific vendor files. This means you can flash a single GSI onto hundreds of different phone models without needing a device-specific ROM.
 
