@@ -15,7 +15,7 @@
 ## Unofficial Android 16
 |Updated|GSI|Dev|Reviews/Issues|Storage|RAM|CPU|Boot|Links|Sources|Architect|Security|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|24 May|LineageOS 23.2|MisterZtr||||||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.05.24-lineage23.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|May 2026|
+|24 May|LineageOS 23.2|MisterZtr|screen rec bugs(error saving recorded video) on mtk|16 GB|2.2 GB|5%||[Download](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.05.24-lineage23.2)|[GitHub](https://github.com/MisterZtr/LineageOS_gsi)|ARM64|May 2026|
 |10 Jan|Lineage23-MicroG|Colors||||||[Download](https://sourceforge.net/projects/lineageos-4-microg/files/GSI/16/)|Closed|ARM64|Jan 2026|
 |10 Jan|eOS|Colors||||||[Download](https://sourceforge.net/projects/e-os/files/GSI/16/)|Closed|ARM64|Jan 2026|
 |21 Dec|LineageOS 23|anna-adnana||||||[Download](https://sourceforge.net/projects/crdroidos/files/GSI/16/)|Closed|ARM64|Dec 2025|
