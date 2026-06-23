@@ -1,4 +1,4 @@
-On flashing this gsi, it takes 15gb storage, 1.8gb ram, 40 to 50% cpu usage,normally takes 50 seconds to boot
+On flashing this gsi, it takes 15gb storage, 1.8gb ram, low cpu usage,normally takes 50 seconds to boot
 this idle system usage calculated by removing the usage of other two apps that used to calculate it.
-~~User may face problems like error screen recording, error for bluetooth.~~ these issues fixed by dev.
+User may face problems like error screen recording, error for bluetooth. [fixed by dev, he constanly pushes updates and fix issues]
 Tested on a mediatek chip phone.
